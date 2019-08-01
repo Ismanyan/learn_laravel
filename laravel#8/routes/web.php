@@ -18,6 +18,8 @@ Route::get('/', function () {
 
 // Blog page
 Route::get('blog', 'Blog@index');
+Route::get('blog/tentang', 'Blog@tentang');
+Route::get('blog/kontak', 'Blog@kontak');
 
 // Blog page and send request data from url
 Route::get('blog/getDataUrl/{data}', 'Blog@getDataUrl');
