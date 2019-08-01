@@ -17,8 +17,12 @@ Route::get('/', function () {
 });
 
 // Blog page
-Route::get('/blog', 'Blog@index');
+Route::get('blog', 'Blog@index');
 
+// Blog page and send request data from url
+Route::get('blog/getDataUrl/{data}', 'Blog@getDataUrl');
+Route::get('/form', 'Blog@form');
+Route::post('/form/getDataPost', 'Blog@getDataPost');
 // Nyan Page
 Route::get('/nyan', function(){
     return "YES WE NYAN";
