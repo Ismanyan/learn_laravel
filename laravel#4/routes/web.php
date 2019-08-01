@@ -17,9 +17,7 @@ Route::get('/', function () {
 });
 
 // Blog page
-Route::get('/blog', function(){
-    return view('blog');
-});
+Route::get('/blog', 'Blog@index');
 
 // Nyan Page
 Route::get('/nyan', function(){
