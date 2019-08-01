@@ -20,7 +20,12 @@
 	</style>
  
 	<h3>Data Pegawai</h3>
- 
+    <br>
+    <form action="/cari" method="GET">
+        <input type="text" name="cari" placeholder="Cari Pegawai .." value="{{ old('cari') }}">
+        <input type="submit" value="CARI">
+    </form>
+    <br>
  
 	<table border="1">
 		<tr>

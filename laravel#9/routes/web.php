@@ -12,3 +12,4 @@
 */
 
 Route::get('/','PegawaiController@index');
+Route::get('/cari','PegawaiController@cari');
