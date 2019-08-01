@@ -12,6 +12,5 @@ Route::get('/edit/{id}','PegawaiController@edit');
 // Edit Pegawai
 Route::post('/edit/pegawai','PegawaiController@editPegawai');
 
-
 // Delete Pegawai
 Route::get('/hapus/{id}','PegawaiController@delete');
