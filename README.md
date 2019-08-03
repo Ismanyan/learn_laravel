@@ -1,13 +1,13 @@
 # learn_laravel
 my laravel learning history from www.malasngoding.com
 
-- Laravel#1 (Install laravel)
-- Laravel#2 (Making a New Route)
-- Laravel#3 (Make a New Controller)
-- Laravel#4 (passing data controller to view)
-- Laravel#5 (Request data)
-- Laravel#6 (Maintenance mode)
-- Laravel#7 (basic configuration env)
+- Laravel#8 (Install laravel)
+- Laravel#8 (Making a New Route)
+- Laravel#8 (Make a New Controller)
+- Laravel#8 (passing data controller to view)
+- Laravel#8 (Request data)
+- Laravel#8 (Maintenance mode)
+- Laravel#8 (basic configuration env)
 - Laravel#8 (blade template)
 - Laravel#crud (CRUD view data)
 - Laravel#curd (CRUD input data)
@@ -19,4 +19,6 @@ my laravel learning history from www.malasngoding.com
 - Laravel#9 (Form Validation)
 - Laravel#crud_eloquent (CRUD System)
 - Laravel#crud_eloquent (soft deletes)
-- Laravel#10
+- Laravel#10 (One To One Relationship)
+- Laravel#10 (One To many Relationship)
+- Laravel#10 (many To many Relationship)
