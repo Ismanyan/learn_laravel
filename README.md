@@ -13,3 +13,10 @@ my laravel learning history from www.malasngoding.com
 - Laravel#curd (CRUD input data)
 - Laravel#crud (CRUD update data)
 - Laravel#crud (CRUD delete data)
+- Laravel#9 (seeding & faker)
+- Laravel#9 (Pagination)
+- Laravel#9 (Searching)
+- Laravel#9 (Form Validation)
+- Laravel#crud_eloquent (CRUD System)
+- Laravel#crud_eloquent (soft deletes)
+- Laravel#10
