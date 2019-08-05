@@ -22,3 +22,5 @@ my laravel learning history from www.malasngoding.com
 - Laravel#10 (One To One Relationship)
 - Laravel#10 (One To many Relationship)
 - Laravel#10 (many To many Relationship)
+- Laravel#11 (Encrpty and Decrpty)
+- Laravel#12 (Upload and Delete Images)
