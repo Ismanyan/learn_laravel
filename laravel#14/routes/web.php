@@ -15,5 +15,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/kirimemail','IsmaController@index');
+Auth::routes();
 
+//verifikasi email user
+Auth::routes(['verify' => true]);
+ 
+Route::get('/home', 'HomeController@index')->name('home');
